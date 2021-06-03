@@ -17,7 +17,14 @@ Run the following commands;
 `npm run seed`    
 `npm start`    
 
-![Demo Still of the Application](doc/demo_still.png?raw=true "Demo of the Application")    
+![stillMySQL](./assets/tags.png)
+![stillMySQL](./assets/products.png)
+![stillMySQL](./assets/categories.png)
+![stillMySQL](./assets/postman_tags.png)
+![stillMySQL](./assets/postman_products.png)
+![stillMySQL](./assets/postman_categories.png)
+
+/![Demo Still of the Application](doc/demo_still.png?raw=true "Demo of the Application")    
 
 ![Demo GIF of the Application](doc/gif/db_start_gif.gif?raw=true "Demo of the Application")     
 

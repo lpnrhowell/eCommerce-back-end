@@ -26,16 +26,5 @@ Run the following commands;
 ![stillPostman](./assets/postman_tags.png)
 ![stillPostman](./assets/postman_products.png)
 ![stillPostman](./assets/postman_categories.png)
+    
 
-/![Demo Still of the Application](doc/demo_still.png?raw=true "Demo of the Application")    
-
-![Demo GIF of the Application](doc/gif/db_start_gif.gif?raw=true "Demo of the Application")     
-
-
-
-
-
-
-
-# eCommerce-back-end
-# eCommerce-back-end

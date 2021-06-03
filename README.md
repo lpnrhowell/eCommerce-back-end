@@ -23,9 +23,9 @@ Run the following commands;
 ![stillMySQL](./assets/tags.png)
 ![stillMySQL](./assets/products.png)
 ![stillMySQL](./assets/categories.png)
-![stillMySQL](./assets/postman_tags.png)
-![stillMySQL](./assets/postman_products.png)
-![stillMySQL](./assets/postman_categories.png)
+![stillPostman](./assets/postman_tags.png)
+![stillPostman](./assets/postman_products.png)
+![stillPostman](./assets/postman_categories.png)
 
 /![Demo Still of the Application](doc/demo_still.png?raw=true "Demo of the Application")    
 

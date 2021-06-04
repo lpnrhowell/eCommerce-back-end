@@ -44,5 +44,5 @@ Copyright (c) 2021 Robert Howell
 ---
 
 ## Author Info
-- GitHub - [Robert Howell](https://github.com/lpnrhowell)
+- GitHub - [Robert Howell](https://github.com/lpnrhowell/eCommerce-back-end)
 - Email - [lnprhowell@gmail.com]()
